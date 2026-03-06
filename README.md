@@ -11,7 +11,7 @@
 <h2>📄 Degrees</h2>
 
 
-- [Diploma In Computer Science]<img src="https://i.imgur.com/7LY" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+- [Diploma In Computer Science](https://i.imgur.com/7LY)
 
   
 <h2> 🤳 Connect with me:</h2>
