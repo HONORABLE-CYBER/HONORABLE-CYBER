@@ -11,8 +11,7 @@
 <h2>📄 Degrees</h2>
 
 
-- [Diploma In Computer Science](<img width="767" height="1080" alt="image" src="https://github.com/user-attachments/assets/98aaf18a-a1b0-44e5-aa98-0970ba0fc89e" />
-)
+- [Diploma In Computer Science]
 
   
 <h2> 🤳 Connect with me:</h2>
