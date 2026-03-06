@@ -1,8 +1,8 @@
 <h1>Hi, I'm Michael! 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Configuring a Router and Configure a Zone-Based Policy Firewall</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Configuring a Router and Configuring a Zone-Based Policy Firewall</b>
+  - [Zone Based Firewall Configuration](https://github.com/HONORABLE-CYBER/Zone-Based-Firewall-Configuration)
 
 
 <h2>📄Certifications</h2>
@@ -11,7 +11,7 @@
 <h2>📄 Degrees</h2>
 
 
-- [Diploma In Computer Science](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Diploma In Computer Science](https://i.imgur.com/7LYkENk.jpeg)
 
   
 <h2> 🤳 Connect with me:</h2>
