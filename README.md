@@ -11,7 +11,7 @@
 <h2>📄 Degrees</h2>
 
 
-- [Diploma In Computer Science]
+- [Diploma In Computer Science](https://i.imgur.com/C4Lp3BS.jpeg)
 
   
 <h2> 🤳 Connect with me:</h2>
